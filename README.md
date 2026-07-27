@@ -18,5 +18,7 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 14 | Longest Common Prefix | Easy |
 | 20 | Valid Parentheses | Easy |
 | 27 | Remove Element | Easy |
+| 217| contain Duplicate | Easy |
+| 268| Missing Numbers | Easy | 
 ---
 ⭐ More solutions will be added as I continue solving LeetCode problems.
