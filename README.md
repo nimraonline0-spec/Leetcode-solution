@@ -22,5 +22,5 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 268| Missing Numbers | Easy | 
  | 21 | Merge Two Sorted Lists | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy | 
----
+| 28 | Find the Index of the First Occurrence in a String | Easy |
 ⭐ More solutions will be added as I continue solving LeetCode problems.
