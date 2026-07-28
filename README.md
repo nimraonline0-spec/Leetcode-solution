@@ -20,5 +20,7 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 27 | Remove Element | Easy |
 | 217| contain Duplicate | Easy |
 | 268| Missing Numbers | Easy | 
+| 21 | Merge Two Sorted Lists | Easy |
+| 26 | Remove Duplicates from Sorted Array | Easy | 
 ---
 ⭐ More solutions will be added as I continue solving LeetCode problems.
