@@ -23,4 +23,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
  | 21 | Merge Two Sorted Lists | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy | 
 | 28 | Find the Index of the First Occurrence in a String | Easy |
+| 35 | Search Insert Position | Easy |
+| 58 | Length of Last word | Easy |
+| 66 | Plus One | Easy |
+| 67 | Add Binary | Easy |
 ⭐ More solutions will be added as I continue solving LeetCode problems.
