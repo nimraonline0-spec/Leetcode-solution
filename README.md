@@ -27,4 +27,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 58 | Length of Last word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
+| 69 | Sqrt(x) | Easy |
+| 70 | Climbing stairs | Easy |
+| 83 | Remove Duplicates from sorted list | Easy |
+
 ⭐ More solutions will be added as I continue solving LeetCode problems.
