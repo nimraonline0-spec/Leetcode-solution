@@ -30,5 +30,9 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 69 | Sqrt(x) | Easy |
 | 70 | Climbing stairs | Easy |
 | 83 | Remove Duplicates from sorted list | Easy |
+| 88 | Merge Sorted Array | Easy |
+| 94 | Binary Tree Inorder Traversal | Easy |
+| 100 | Same Tree | Easy |
+
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
