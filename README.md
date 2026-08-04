@@ -33,6 +33,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
 | 100 | Same Tree | Easy |
-
+| 101 | Symmetric Tree | Easy |
+| 104 | Maximum Depth of Binary Tree | Easy |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy |
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
