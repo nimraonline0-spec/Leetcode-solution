@@ -36,5 +36,15 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 101 | Symmetric Tree | Easy |
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy |
+| 110 | Balanced Binary Tree | Easy |
+| 111 | Minimum Depth of Binary Tree | Easy |
+| 112 | Path Sum | Easy |
+| 118 | Pascal's Triangle | Easy |
+| 119 | Pascal's Triangle II | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
+| 125 | Valid Palindrome | Easy |
+| 136 | Single Number | Easy |
+| 141 | Linked List Cycle | Easy |
+
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
