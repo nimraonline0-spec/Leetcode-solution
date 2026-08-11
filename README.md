@@ -45,6 +45,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 125 | Valid Palindrome | Easy |
 | 136 | Single Number | Easy |
 | 141 | Linked List Cycle | Easy |
-
+| 144 | Binary Tree Preorder Traversal | Easy |
+| 145 | Binary Tree Postorder Traversal | Easy |
+| 160 | Intersection of Two Linked Lists | Easy |
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
