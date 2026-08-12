@@ -48,5 +48,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 144 | Binary Tree Preorder Traversal | Easy |
 | 145 | Binary Tree Postorder Traversal | Easy |
 | 160 | Intersection of Two Linked Lists | Easy |
+| 168 | Excel Sheet Column Title | Easy |
+| 169 | Majority Element | Easy |
+| 171 | Excel Sheet Column Number | Easy |
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
