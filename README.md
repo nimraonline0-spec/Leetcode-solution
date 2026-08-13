@@ -51,5 +51,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 168 | Excel Sheet Column Title | Easy |
 | 169 | Majority Element | Easy |
 | 171 | Excel Sheet Column Number | Easy |
+|2 | Add Two Numbers | Medium |
+| 3 | Longest Substring Without Repeating Characters | Medium |
+
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
