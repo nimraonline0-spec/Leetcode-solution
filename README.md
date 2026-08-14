@@ -53,6 +53,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 171 | Excel Sheet Column Number | Easy |
 |2 | Add Two Numbers | Medium |
 | 3 | Longest Substring Without Repeating Characters | Medium |
+| 5 | Longest Palindromic Substring | Medium |
+| 6 | Zigzag Conversion | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
