@@ -55,6 +55,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 3 | Longest Substring Without Repeating Characters | Medium |
 | 5 | Longest Palindromic Substring | Medium |
 | 6 | Zigzag Conversion | Medium |
+| 7 | Reverse Integer | Medium |
+| 8 | String to Integer (atoi) | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
