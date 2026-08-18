@@ -57,6 +57,7 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 6 | Zigzag Conversion | Medium |
 | 7 | Reverse Integer | Medium |
 | 8 | String to Integer (atoi) | Medium |
-
+| 11 | container with most water| Medium |
+| 12 | Integer TO Roman | Medium |
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
