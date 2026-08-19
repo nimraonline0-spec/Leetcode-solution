@@ -59,5 +59,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 8 | String to Integer (atoi) | Medium |
 | 11 | container with most water| Medium |
 | 12 | Integer TO Roman | Medium |
+| 15 | 3Sum | Medium |
+| 16 | 3Sum Closest | Medium |
+
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
