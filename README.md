@@ -61,6 +61,9 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 12 | Integer TO Roman | Medium |
 | 15 | 3Sum | Medium |
 | 16 | 3Sum Closest | Medium |
+| 17 | Letter Combinations of Phone Number | Medium |
+| 18 | 4Sum | Medium |
+
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
