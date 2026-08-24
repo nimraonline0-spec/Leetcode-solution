@@ -65,6 +65,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 18 | 4Sum | Medium |
 | 19 | Remove Nth Node From End of List | Medium |
 | 22 | Generate Parentheses | Medium |
+| 24 | Swap Nodes In Pairs | Medium |
+| 29 | Divide Two Integers | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
