@@ -67,6 +67,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 22 | Generate Parentheses | Medium |
 | 24 | Swap Nodes In Pairs | Medium |
 | 29 | Divide Two Integers | Medium |
+| 31 | Next Permutation | Medium |
+| 33 | Search In Rotated sorted Array | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
