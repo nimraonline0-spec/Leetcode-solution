@@ -69,6 +69,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 29 | Divide Two Integers | Medium |
 | 31 | Next Permutation | Medium |
 | 33 | Search In Rotated sorted Array | Medium |
+| 34 | Find First and Last Element In SOrtred Array | Medium |
+| 36 | Valid Sudoku | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
