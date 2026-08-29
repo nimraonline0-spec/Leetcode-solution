@@ -73,6 +73,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 36 | Valid Sudoku | Medium |
 | 38 | Count and Say | Medium |
 | 39 | Combination Sum | Medium |
+| 40 | Combination Sum II | Medium |
+| 43 | Multiply Strings | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
