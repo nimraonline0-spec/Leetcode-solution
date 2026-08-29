@@ -71,6 +71,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 33 | Search In Rotated sorted Array | Medium |
 | 34 | Find First and Last Element In SOrtred Array | Medium |
 | 36 | Valid Sudoku | Medium |
+| 38 | Count and Say | Medium |
+| 39 | Combination Sum | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
