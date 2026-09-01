@@ -75,6 +75,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 39 | Combination Sum | Medium |
 | 40 | Combination Sum II | Medium |
 | 43 | Multiply Strings | Medium |
+| 45 | Jump Game II | Medium |
+| 46 | Permutations | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
