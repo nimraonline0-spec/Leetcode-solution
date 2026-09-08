@@ -77,6 +77,8 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 43 | Multiply Strings | Medium |
 | 45 | Jump Game II | Medium |
 | 46 | Permutations | Medium |
+| 47 | Permutations II | Medium |
+| 48 | Rotate Image | Medium |
 
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
