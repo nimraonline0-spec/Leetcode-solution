@@ -79,6 +79,9 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 46 | Permutations | Medium |
 | 47 | Permutations II | Medium |
 | 48 | Rotate Image | Medium |
-
+| 49 | Group Anagrams | Medium |
+| 50 | Pow(x , n) | Medium |
+| 53 | Maximum Subarray | Medium |
+| 54 | Spiral Matrix | Medium |
 
 ⭐ More solutions will be added as I continue solving LeetCode problems.
