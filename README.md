@@ -83,5 +83,6 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 50 | Pow(x , n) | Medium |
 | 53 | Maximum Subarray | Medium |
 | 54 | Spiral Matrix | Medium |
-
+| 55 | Jump Game | Medium |
+| 56 | Merge Intervals | Medium |
 ⭐ More solutions will be added as I continue solving LeetCode problems.
