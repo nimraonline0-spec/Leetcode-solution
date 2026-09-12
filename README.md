@@ -85,4 +85,6 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 54 | Spiral Matrix | Medium |
 | 55 | Jump Game | Medium |
 | 56 | Merge Intervals | Medium |
+| 57 | Insert Interval | Medium |
+| 59 | Spiral Matrix II | Medium |
 ⭐ More solutions will be added as I continue solving LeetCode problems.
