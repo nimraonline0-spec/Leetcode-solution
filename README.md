@@ -87,4 +87,6 @@ I am solving LeetCode problems to improve my problem-solving skills and strength
 | 56 | Merge Intervals | Medium |
 | 57 | Insert Interval | Medium |
 | 59 | Spiral Matrix II | Medium |
+| 61 | Rotate List | Medium |
+| 64 | Minimu, Path Sum | Medium |
 ⭐ More solutions will be added as I continue solving LeetCode problems.
